@@ -1,0 +1,13 @@
+.menu {
+  width: 100%;
+  background-color: #555;
+  overflow: auto;
+}
+
+.menu a {
+  float: left;
+  padding: 12px;
+  color: aliceblue;
+  text-decoration: none;
+  font-size: 17px;
+}
